@@ -1,2 +1,3 @@
 # hello-world
-Mi primer proyecto en GitHub
+Holi, este es mi primer proyecto en GitHub.:) 
+Emocionada de aprender más!
